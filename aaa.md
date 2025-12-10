@@ -1,5 +1,7 @@
-layout: default
+---
+layout: page
 title: "About"
 permalink: /aaa/
+---
 
-#about Page
+# about Page
