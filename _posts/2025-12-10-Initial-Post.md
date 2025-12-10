@@ -48,14 +48,14 @@ end
 
 
 ## 📌 코드 블록 (fenced code block)
-```python
+````python`
 def greet(name):
     print(f"Hello, {name}!")
 
 greet("호형")
 
 
-```markdown
+````markdown`
 CoinMarketCap
 
 글로벌 암호화폐 시세 집계 플랫폼
