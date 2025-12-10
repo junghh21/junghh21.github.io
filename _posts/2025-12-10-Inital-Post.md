@@ -27,10 +27,23 @@ author: "호형"
 ## 🖼️ 이미지
 ![샘플 이미지](/assets/images/sample.jpg)
 
----
 
 ### ✅ 정리
 이 포스트는 Jekyll 빌드 시 `/blog/example/2025/12/10/my-post.html` 같은 경로로 생성됩니다.
+
+# Python 코드 하이라이팅 예시
+
+이 포스트는 Jekyll 블로그에서 **Python 코드 블록**을 하이라이팅하는 방법을 보여줍니다.
+
+## 📌 코드 블록 (fenced code block)
+
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("호형")
+
+
 
 CoinMarketCap
 
