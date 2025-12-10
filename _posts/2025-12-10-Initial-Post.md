@@ -39,7 +39,7 @@ author: "호형"
 
 
 ### 2. Liquid 태그 방식
-```liquid
+
 {% highlight ruby %}
 def hello(name)
   puts "Hello, #{name}!"
