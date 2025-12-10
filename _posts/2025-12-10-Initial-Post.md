@@ -49,7 +49,6 @@ end
 
 ## 📌 코드 블록 (fenced code block)
 
-```python
 def greet(name):
     print(f"Hello, {name}!")
 
