@@ -1,5 +1,5 @@
 layout: default
 title: "About"
-permalink: /aaa
+permalink: /aaa/
 
 #about Page
