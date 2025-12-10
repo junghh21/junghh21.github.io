@@ -1,7 +1,9 @@
+---
 layout: post
 title: "Initial Post"
 date: 2025-12-10 00:00:00 -0000
 categories: CATEGORY-1 CATEGORY-2
+---
 
 CoinMarketCap
 
