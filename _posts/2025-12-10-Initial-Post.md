@@ -35,6 +35,18 @@ author: "호형"
 
 이 포스트는 Jekyll 블로그에서 **Python 코드 블록**을 하이라이팅하는 방법을 보여줍니다.
 
+👉 Jekyll이 빌드할 때 Rouge가 자동으로 Python 코드 하이라이팅 적용
+
+
+### 2. Liquid 태그 방식
+```liquid
+{% highlight ruby %}
+def hello(name)
+  puts "Hello, #{name}!"
+end
+{% endhighlight %}
+
+
 ## 📌 코드 블록 (fenced code block)
 
 ```python
