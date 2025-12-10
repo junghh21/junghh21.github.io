@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: junghh21's homepage
 description: Bookmark this to keep an eye on my project updates!
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
